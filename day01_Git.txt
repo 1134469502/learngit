@@ -1,3 +1,4 @@
 Git is a version control system.
 Git is free softwar.
 哈哈哈哈
+我们再来测试一下加入暂存区后的状态
